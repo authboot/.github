@@ -1,3 +1,5 @@
+[English](./README-zh.md) | 简体中文
+
 # Hi there 👋
 
 🧑‍💻 **A short introduction** — AuthBoot is a cross-platform development starter kit built for independent developers, indie hackers, and small teams. We provide reusable foundations for authentication, user management, and application development, helping developers skip repetitive setup and focus on building products.
@@ -14,5 +16,5 @@
 
 ---
 
-\<p align="center">   \*\*Built for builders. Made for Vibe Coding.\*\* \</p>
+<p align="center"><b>Built for builders. Made for Vibe Coding.</b></p>
 
